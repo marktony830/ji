@@ -1,0 +1,19 @@
+#countlable{
+    display: block;
+    font-family: Helvetica;
+    font-size: 5rem;
+    text-align: center;
+}
+.Btncontainer{
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+}
+.button{
+    font-size: 1.5rem;
+    gap: 5px;
+    background-color: rgb(46, 208, 21);
+    color: whitesmoke;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
